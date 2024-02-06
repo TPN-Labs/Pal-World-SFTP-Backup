@@ -1,0 +1,10 @@
+/node/.idea
+/node/node_modules
+/node/dist
+/node/samconfig.toml
+/node/.aws-sam
+/node/template.yaml
+/java/.idea
+/java/target
+/python/.idea
+/python/__pycache__
